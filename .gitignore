@@ -28,7 +28,6 @@ wheels/
 *.ipynb_checkpoints/
 
 # Data files (too large for git)
-*.csv
 *.parquet
 *.pkl
 *.pickle
